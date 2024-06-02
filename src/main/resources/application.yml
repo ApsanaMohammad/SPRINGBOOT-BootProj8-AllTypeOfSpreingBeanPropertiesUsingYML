@@ -1,0 +1,18 @@
+org:
+  nit:
+    name: NIT Company
+    type: IT Services
+    location: Hyderabad
+    employees: 500
+    revenue: 150.75
+    phone-numbers:
+      - 1234567890
+      - 0987654321
+    members:
+      - John
+      - Jane
+      - Doe
+    company-details:
+      headquarters: Hyderabad
+      founded: 2005
+      ceo: John Doe
